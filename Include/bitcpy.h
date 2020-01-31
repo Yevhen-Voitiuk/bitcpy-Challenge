@@ -6,6 +6,9 @@
 #define BITCPY_CHALLENGE_BITCPY_H
 
 #include <stdlib.h>
+#include <stdint.h>
+#include <stdio.h>
+#include <string.h>
 #include <math.h>
 
 #define BITS_IN_BYTES 8
